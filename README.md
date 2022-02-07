@@ -1,12 +1,12 @@
-# My build of ST
+# Custom build of st
 
 ## Features
 
-* Configure colors through Xresources
-* Scrollback support
+* configure colors through xresources
+* live reload of xresources possible
 
 ## Patches
 
-* scrollback
-* scrollback-mouse
+* anysize
+* bold is not bright
 * xresources
